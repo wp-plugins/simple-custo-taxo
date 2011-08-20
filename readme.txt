@@ -4,7 +4,7 @@ Donate link: http://www.utcwebdesign.co.uk
 Tags: taxonomy, custom, category
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: trunk
+Stable tag: 1.0
 version: 1.0
 
 Adds an extra taxonomy option for your posts and add to your site by using the widget in your sidebar.
