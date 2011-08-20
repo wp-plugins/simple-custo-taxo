@@ -11,7 +11,7 @@ Adds an extra taxonomy option for your posts and add to your site by using the w
 
 == Description ==
 
-Simple-Custo-taxo (Simple Custom Taxonomy) is a simple (as the name suggests) plugin that adds an extra taxonomy option for your products and can be added to your site by adding the widget to your sidebar.
+Simple-Custo-taxo (Simple Custom Taxonomy) is a simple (as the name suggests) plugin that adds an extra taxonomy option for your posts and can be added to your site by adding the widget to your sidebar.
 
 Simply create categories in the ‘custom categories’ section that will now appear in your Posts main menu and add posts to that category as you normally would.  The widget then creates an unordered list of your custom taxonomies. Simple.
 
