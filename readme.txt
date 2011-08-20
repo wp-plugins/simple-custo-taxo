@@ -15,6 +15,8 @@ Simple-Custo-taxo (Simple Custom Taxonomy) is a simple (as the name suggests) pl
 
 Simply create categories in the ‘custom categories’ section that will now appear in your Posts main menu and add posts to that category as you normally would.  The widget then creates an unordered list of your custom taxonomies. Simple.
 
+For more information go to <a href="http://www.utcwebdesign.co.uk/blog/development/instructions/simple-custo-taxo-wordpress-plugin">http://www.utcwebdesign.co.uk/blog/development/instructions/simple-custo-taxo-wordpress-plugin</a>
+
 
 == Installation ==
 
